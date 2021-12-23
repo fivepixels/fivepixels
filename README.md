@@ -1,15 +1,21 @@
 # Welcome To My Github!
 
-### I am a Middle School Student who dreams of becoming a Developer.
+### I am a Middle School Student who dreams of becoming a Full-Stack Developer.
 
 # ▎Personal Info
 
   - Name: So Seol
-  - Respectful Person : [Jong Min Kim](https://github.com/cmiscm)
   - School : Neulpureun Middle School
+  - Respectful Person : [Jong Min Kim](https://github.com/cmiscm)
   - Email : ethan.seolso@gmail.com
 
-# ▎Primary Tech Stacks
+# Contacts
+
+  - Email : ethan.seolso@gmail.com
+
+  - Instagram : [@Novelier-Webbelier](https://www.instagram.com/novelier_webbelier/)
+
+# ▎Stacks
 
   - Front-end : 
     <!-- HTML, CSS, JavaScript -->
@@ -37,3 +43,9 @@
     <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=Visual%20Studio%20Code&logoColor=white"></span>
 
 # ▎[My Portfolio Website](https://Novelier-Webbelier.github.io)
+
+![Novelier-Webbelier's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Novelier-Webbelier&layout=compact&theme=nightowl&langs_count=10)
+
+![Novelier-Webbelier's Github Stats](https://github-readme-stats.vercel.app/api?username=novelier-webbelier&show_icons=true&theme=nightowl)
+
+![Novelier-Webbelier's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Novelier-Webbelier&&theme=nightowl)
