@@ -1,8 +1,11 @@
 # Welcome To My Github!
 
+### I am a Middle School Student who dreams of becoming a Developer. <br><br>
+
 # ▎Personal Info
 
-  - Name: Seol So
+  - Name: So Seol
+  - Respectful Person : [Jong Min Kim](https://github.com/cmiscm)
   - School : Neulpureun Middle School
   - Email : ethan.seolso@gmail.com
 
