@@ -1,6 +1,6 @@
 # Welcome To My Github!
 
-### I am a Middle School Student who dreams of becoming a Developer. <br><br>
+### I am a Middle School Student who dreams of becoming a Developer.
 
 # ▎Personal Info
 
