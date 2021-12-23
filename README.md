@@ -2,7 +2,7 @@
 
 # ▎Personal Info
 
-  - Name: So Seol
+  - Name: Seol So
   - School : Neulpureun Middle School
   - Email : ethan.seolso@gmail.com
 
