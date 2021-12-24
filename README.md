@@ -50,7 +50,8 @@ I am currently attending Neulpureun Middle School.
     <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=Visual%20Studio%20Code&logoColor=white"></span>
 
   OS : 
-    <!-- MacOS -->
+    <!-- Windows, acOS -->
+    <span><img src="https://img.shields.io/badge/Windows-00a1f1?style=flat&logo=Windows&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Apple&logoColor=white"></span>
 
 # ▎💇🏻 Github Management
