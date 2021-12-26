@@ -30,8 +30,9 @@ I am currently attending Neulpureun Middle School.
     <span><img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat&logo=JavaScript&logoColor=white"></span>
 
   Back-end : 
-    <!-- Python, NodeJS, Pug -->
+    <!-- Python, Express, NodeJS, Pug -->
     <span><img src="https://img.shields.io/badge/Python-4477ba?style=flat&logo=Python&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Express-002663?style=flat&logo=express&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/NodeJS-3c873a?style=flat&logo=node&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/Pug-a2866b?style=flat&logo=Pug&logoColor=white"></span>
 
