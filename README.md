@@ -8,6 +8,8 @@
 
 I am currently attending Neulpureun Middle School.
 
+And I'm aiming for 5 commits a day.
+
 # ▎🙆🏻 Personal Info
 
   Name: So Seol<br>
