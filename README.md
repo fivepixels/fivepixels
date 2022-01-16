@@ -19,7 +19,7 @@ And I'm aiming for 5 commits a day.
 
 # ▎📞 Contacts
 
-  Email : ethan.seolso@gmail.com
+  Email : novelier.webbelier@gmail.com
 
   Instagram : [@Novelier-Webbelier](https://www.instagram.com/novelier_webbelier/)
 
