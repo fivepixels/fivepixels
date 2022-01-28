@@ -15,7 +15,7 @@ And I'm aiming for 5 commits a day.
   Name: So Seol<br>
   School : Neulpureun Middle School<br>
   Respectful Person : [Jong Min Kim](https://github.com/cmiscm)<br>
-  Email : ethan.seolso@gmail.com<br>
+  Email : novelier.webbelier@gmail.com<br>
 
 # ▎📞 Contacts
 
