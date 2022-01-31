@@ -8,7 +8,7 @@
 
 I am currently attending Neulpureun Middle School.
 
-And I'm aiming for 5 commits a day.
+And, I make 2 commits every day.
 
 # ▎🙆🏻 Personal Info
 
