@@ -8,14 +8,14 @@
 
 I am currently attending Neulpureun Middle School.
 
-And I'm aiming for 5 commits a day.
+And, I make 2 commits every day.
 
 # ▎🙆🏻 Personal Info
 
   Name: So Seol<br>
   School : Neulpureun Middle School<br>
   Respectful Person : [Jong Min Kim](https://github.com/cmiscm)<br>
-  Email : ethan.seolso@gmail.com<br>
+  Email : novelier.webbelier@gmail.com<br>
 
 # ▎📞 Contacts
 
