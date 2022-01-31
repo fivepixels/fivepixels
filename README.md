@@ -29,6 +29,7 @@ And I'm aiming for 5 commits a day.
   Front-end : 
     <span><img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/CSS-264de4?style=flat&logo=css3&logoColor=white"></span>
+    <span><img src="https://img.shields.io/badge/Scss-C46092?style=flat&logo=Sass&logoColor=white"></span>
     <span><img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat&logo=JavaScript&logoColor=white"></span>
 
   Back-end : 
