@@ -43,21 +43,6 @@ And, I make 2 commits every day.
     <!-- MongoDB -->
     <span><img src="https://img.shields.io/badge/MongoDB-3FA037?style=flat&logo=mongoDB&logoColor=white"></span>
 
-  Version Control :
-    <!-- Git, Github -->
-    <span><img src="https://img.shields.io/badge/Git-f34f29?style=flat&logo=git&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Github-333?style=flat&logo=Github&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Source%20Tree-0052cc?style=flat&logo=sourcetree&logoColor=white"></span>
-
-  Text Editor : 
-    <!-- Visual Studio Code -->
-    <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=Visual%20Studio%20Code&logoColor=white"></span>
-
-  OS : 
-    <!-- Windows, acOS -->
-    <span><img src="https://img.shields.io/badge/Windows-00a1f1?style=flat&logo=Windows&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Apple&logoColor=white"></span>
-
 # ▎💇🏻 Github Management
 
 ![Novelier-Webbelier's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Novelier-Webbelier&layout=compact&theme=nightowl&langs_count=10)
