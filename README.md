@@ -43,6 +43,10 @@ And, I make 2 commits every day.
     <!-- MongoDB -->
     <span><img src="https://img.shields.io/badge/MongoDB-3FA037?style=flat&logo=mongoDB&logoColor=white"></span>
 
+  Deploy : 
+    <!-- Heroku -->
+    <span><img src="https://img.shields.io/badge/Heroku-6762a6?style=flat&logo=heroku&logoColor=white"></span>
+
 # ▎💇🏻 Github Management
 
 ![Novelier-Webbelier's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Novelier-Webbelier&layout=compact&theme=nightowl&langs_count=10)
