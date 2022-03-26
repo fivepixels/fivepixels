@@ -55,6 +55,6 @@ And, I make 2 commits every day.
 
 ![Novelier-Webbelier's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Novelier-Webbelier&&theme=nightowl)
 
-# ▎[My Portfolio Website](https://Novelier-Webbelier.github.io)
+# ▎[My Diary](https://github.com/Novelier-Webbelier/log-and-diary)
 
 </div>
