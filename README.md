@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Novelier-Webbelier/Novelier-Webbelier/master/wave.gif"> Hello There!
+# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello There!
 
 👋 Hello There, It's Novelier Webbelier from South Korea.
 
@@ -47,4 +47,4 @@ And, I make 2 commits every day.
     <a href="https://instagram.com/Novelier_Webbelier" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=instagram&logoColor=white"></a>
   </o>
   
-  <div>
+<div>
