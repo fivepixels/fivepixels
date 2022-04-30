@@ -2,59 +2,49 @@
 
 <div align="center">
 
-# Welcome To My Github!
+# <img src="https://raw.githubusercontent.com/Novelier-Webbelier/Novelier-Webbelier/master/wave.gif"> Hello There!
 
-👋 Hello There, It's So Seol from South Korea.
+👋 Hello There, It's Novelier Webbelier from South Korea.
 
 I am currently attending Neulpureun Middle School.
 
 And, I make 2 commits every day.
 
-# ▎🙆🏻 Personal Info
+## Badges
 
-  Name: So Seol<br>
-  School : Neulpureun Middle School<br>
-  Respectful Person : [Jong Min Kim](https://github.com/cmiscm)<br>
-  Email : novelier.webbelier@gmail.com<br>
+### Technologies
 
-# ▎📞 Contacts
+  <p>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white">
+    <a href="https://github.com/pugjs/pug"><img alt="Pug" src="https://img.shields.io/badge/-Pug-a0755d?style=flat-square&logo=pug&logoColor=white"></a>
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white">
+    <a href="https://github.com/sass/sass"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"></a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fddb4f?style=flat-square&logo=javascript&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white">
+    <a href="https://github.com/nodejs/node"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"></a>
+    <a href="https://github.com/mongodb/mongo"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"></a>
+    <a href="https://github.com/webpack/webpack"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"></a>
+    <a href="https://github.com/npm/cli"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
+    <a href="https://heroku.com"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-6762a6?style=flat-square&logo=heroku&logoColor=white"></a>
+  </p>
 
-  Email : novelier.webbelier@gmail.com
+### Tools
 
-  Instagram : [@Novelier-Webbelier](https://www.instagram.com/novelier_webbelier/)
+  <p>
+    <a href="https://github.com/fish-shell/fish-shell"><img src="https://img.shields.io/badge/-FISH-d5393c?style=flat-square&logo=fish-shell&logoColor=white"></a>
+    <a href="https://github.com/neovim/neovim"><img src="https://img.shields.io/badge/-NEOVIM-009932?style=flat-square&logo=neovim&logoColor=white"></a>
+    <a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/-tmux-393939?style=flat-square&logo=tmux&logoColor=white"></a>
+    <a href="https://github.com/github"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="https://github.com/git/git"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+  </p>
 
-# ▎🧑🏻‍💻 Stacks
+### Contact
 
-  <!-- HTML, CSS, JavaScript -->
-  Front-end : 
-    <span><img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Pug-a2866b?style=flat&logo=Pug&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/CSS-264de4?style=flat&logo=css3&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Scss-C46092?style=flat&logo=Sass&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat&logo=JavaScript&logoColor=white"></span>
-
-  Back-end : 
-    <!-- Python, Express, NodeJS, Pug -->
-    <span><img src="https://img.shields.io/badge/Python-4477ba?style=flat&logo=Python&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/Express-002663?style=flat&logo=express&logoColor=white"></span>
-    <span><img src="https://img.shields.io/badge/NodeJS-3c873a?style=flat&logo=node&logoColor=white"></span>
-
-  DB : 
-    <!-- MongoDB -->
-    <span><img src="https://img.shields.io/badge/MongoDB-3FA037?style=flat&logo=mongoDB&logoColor=white"></span>
-
-  Deploy : 
-    <!-- Heroku -->
-    <span><img src="https://img.shields.io/badge/Heroku-6762a6?style=flat&logo=heroku&logoColor=white"></span>
-
-# ▎💇🏻 Github Management
-
-![Novelier-Webbelier's Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Novelier-Webbelier&layout=compact&theme=nightowl&langs_count=10)
-
-![Novelier-Webbelier's Github Stats](https://github-readme-stats.vercel.app/api?username=novelier-webbelier&show_icons=true&theme=nightowl)
-
-![Novelier-Webbelier's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Novelier-Webbelier&&theme=nightowl)
-
-# ▎[My Diary](https://github.com/Novelier-Webbelier/log-and-diary)
-
-</div>
+  <p>
+    <a href="novelier.webbeiler@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-CB3837?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="https://twitter.com/Novelier" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+    <a href="https://instagram.com/Novelier_Webbelier" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=instagram&logoColor=white"></a>
+  </o>
+  
+  <div>
