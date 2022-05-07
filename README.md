@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=So%20Seol&fontAlign=65&fontAlignY=70&desc=Novelier%20Webbelier&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn)
+<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=So%20Seol&fontAlign=65&fontAlignY=70&desc=Novelier%20Webbelier&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn">
 
 <div align="center">
 
@@ -7,8 +7,6 @@
 👋 Hello There, It's Novelier Webbelier from South Korea.
 
 I am currently attending Neulpureun Middle School.
-
-And, I make 2 commits every day.
 
 ## Badges
 
@@ -22,6 +20,7 @@ And, I make 2 commits every day.
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fddb4f?style=flat-square&logo=javascript&logoColor=black">
     <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white">
     <a href="https://github.com/nodejs/node"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"></a>
+    <a href="https://github.com/expressjs/express"><img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"></a>
     <a href="https://github.com/mongodb/mongo"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/webpack/webpack"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"></a>
     <a href="https://github.com/npm/cli"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
@@ -45,6 +44,13 @@ And, I make 2 commits every day.
     <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white"></a>
     <a href="https://twitter.com/Novelier" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
     <a href="https://instagram.com/Novelier_Webbelier" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=instagram&logoColor=white"></a>
-  </o>
+  </p>
+
+## Status
   
+![Metrics](https://metrics.lecoq.io/Novelier-Webbelier?template=classic&base.repositories=0&languages=1&config.timezone=Asia%2FSeoul&config.animated=true)
+
+![Geunhyeok NW's github stats](https://github-readme-stats.vercel.app/api?username=Novelier-Webbelier&theme=default&show_icons=true&row=2&column=3)
+
+
 <div>
