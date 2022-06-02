@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello There!
+# 👋 Hello There!
 
-👋 Hello There, It's Novelier Webbelier from South Korea.
+Hello There, It's Novelier Webbelier from South Korea.
 
 I am currently attending Neulpureun Middle School.
 
