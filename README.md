@@ -18,12 +18,17 @@ I am currently attending Neulpureun Middle School.
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white">
     <a href="https://github.com/sass/sass"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"></a>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fddb4f?style=flat-square&logo=javascript&logoColor=black">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white">
+    <a href="https://www.typescriptlang.org/"><img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=Typescript&logoColor=white" /></a>
+    <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"></a>
+    <br />
+    <a href="https://reactjs.org/"><img alt="react" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white" /></a>
     <a href="https://github.com/nodejs/node"><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"></a>
     <a href="https://github.com/expressjs/express"><img alt="Express" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"></a>
     <a href="https://github.com/mongodb/mongo"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"></a>
+    <br />
     <a href="https://github.com/webpack/webpack"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"></a>
-    <a href="https://github.com/npm/cli"><img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
+    <a href="https://github.com/npm/cli"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
+    <a href="https://yarnpkg.com/"><img alt="yarn" src="https://img.shields.io/badge/-yarn-378fb9?style=flat-square&logo=yarn&logoColor=white" /></a>
     <a href="https://heroku.com"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-6762a6?style=flat-square&logo=heroku&logoColor=white"></a>
   </p>
 
