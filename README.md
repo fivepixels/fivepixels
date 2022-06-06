@@ -4,7 +4,7 @@
 
 # 👋 Hello There!
 
-Hello There, It's Novelier Webbelier from South Korea.
+Hello There, It's So Seol from South Korea.
 
 I am currently attending Neulpureun Middle School.
 
