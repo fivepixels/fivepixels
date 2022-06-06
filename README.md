@@ -1,6 +1,6 @@
-<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=So%20Seol&fontAlign=65&fontAlignY=70&desc=Novelier%20Webbelier&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn">
-
 <div align="center">
+
+<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=So%20Seol&fontAlign=65&fontAlignY=70&desc=Novelier%20Webbelier&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn" style="width: 100%">
 
 # 👋 Hello There!
 
