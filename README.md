@@ -15,7 +15,7 @@ But, Agust 1st, 2022, I am going to study abroad to Vancouver.(But I am not good
 ### Technologies
 
   <p>
-    These are Techonologies I can use. Recently, I am interested in TypeScript and React. It is sooo beautiful... and I am going to learn about Cross-Platform which is React Native, and Flutter after I master it. So, Finally, when I finish learning about Cross-Platform, I will create a BIG Project which is TODO PROJECTS. This project can be run in web browser and mobile application and it has own server... So, this can manage your TODO, on browser and mobile application.
+    These are Techonologies Badges I can use. Recently, I am interested in TypeScript and React. It is sooo beautiful... and I am going to learn about Cross-Platform which is like React Native and Flutter after I master about TypeScript and React. So, Finally, when I finish learning about Cross-Platform, I will create a BIG Project which is TODO PROJECTS. This project can be run in web browser and mobile application and it has own server... So, this service can manage your TODO, on browser and mobile application.
   </p>
   <p>
     The Programming Languages : 
@@ -43,7 +43,7 @@ But, Agust 1st, 2022, I am going to study abroad to Vancouver.(But I am not good
 ### Tools
 
   <p>
-    These are Tools when I code or build or deploy to server. I usually work on Terminal, not a IDE which is like Visual Studio Code or Subline or Atom. This is becasue that is nice to work on Terminal.
+    These are Tools Badges when I code or build or deploy to server. I usually work on Terminal, not any IDE which is like Visual Studio Code or Subline or Atom. This is becasue that is nice.
     Then, if you want to set your development environment like me, check out <a href="https://github.com/Novelier-Webbelier/dotfiles">this my repository</a> or check out the <a href="https://youtube.com/c/devaslife">Takuya's video on youtube channel</a> because I set my development environment with Takuya's youtube channel.
   </p>
   <p>
