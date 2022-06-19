@@ -69,4 +69,6 @@ But, Agust 1st, 2022, I am going to study abroad to Vancouver.(But I am not good
 
 ![Geunhyeok NW's github stats](https://github-readme-stats.vercel.app/api?username=Novelier-Webbelier&theme=default&show_icons=true&row=2&column=3)
 
+# Learn every time, Write every where
+
 <div>
