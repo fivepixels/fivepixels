@@ -46,7 +46,7 @@ Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently att
 ### Tools
 
   <p>
-    These are Tools Badges that I can use. I usually work on Terminal, not any IDE. If you want to set your DE like me, check out <a href="https://github.com/Novelier-Webbelier/dotfiles/">My Dotfiles Repository</a> to set DE, or check out <a href="https://youtube.com/c/devaslife/">Takuya's video on youtube channel</a>. Because I set my DE with Takuya's youtube channel.
+    These are Tools Badges that I can use. I usually work on Terminal, not any IDE. If you want to set your DE like me, check out <a href="https://github.com/tenacious-novel/dotfiles/">My Dotfiles Repository</a> to set DE, or check out <a href="https://youtube.com/c/devaslife/">Takuya's video on youtube channel</a>. Because I set my DE with Takuya's youtube channel.
   </p>
   <p>
     <a href="https://github.com/fish-shell/fish-shell"><img alt="Fish Shell" src="https://img.shields.io/badge/-FISH-d5393c?style=flat-square&logo=fish-shell&logoColor=white" /></a>
@@ -58,15 +58,15 @@ Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently att
 
   <p>
     <a href="novelier.webbeiler@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-CB3837?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="https://twitter.com/Novelier" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-    <a href="https://instagram.com/Novelier_Webbelier" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/tenacious-novel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://twitter.com/tenacious_novel" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+    <a href="https://instagram.com/tenacious_novel" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=instagram&logoColor=white" /></a>
   </p>
 
 ## Status
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Novelier-Webbelier&theme=nord)
-![Geunhyeok NW's github stats](https://github-readme-stats.vercel.app/api?username=Novelier-Webbelier&theme=nord&show_icons=true&row=2&column=3)
-![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Novelier-Webbelier&theme=nord_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenacious-novel&theme=nord)
+![Geunhyeok NW's github stats](https://github-readme-stats.vercel.app/api?username=tenacious-novel&theme=nord&show_icons=true&row=2&column=3)
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenacious-novel&theme=nord_dark)
 
 <div>
