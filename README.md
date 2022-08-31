@@ -6,7 +6,7 @@
 
 # 👋 Hello There!
 
-Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently attending on <a href="https://bodwell.edu/">Bodwell High School</a>, Canada Private School.
+Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently attending on <a href="https://bodwell.edu/">Bodwell High School</a>, Canada Private School. I decided to enter this school to learn English and go to college about Information Technologies and Computer Programming. I have been learning new stacks, maintaining many Computer Programming Projects.. I want to be Developer!
 
 ## Badges
 
@@ -46,7 +46,7 @@ Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently att
 ### Tools
 
   <p>
-    These are Tools Badges that I can use. I usually work on Terminal, not any IDE. If you want to set your DE like me, check out <a href="https://github.com/craftz-cat/dotfiles/">My Dotfiles Repository</a> to set DE, or check out <a href="https://youtube.com/c/devaslife/">Takuya's video on youtube channel</a>. Because I set my DE with Takuya's youtube channel.
+    These are Tools Badges that I use. I always work on Terminal, not any IDE such as VSC or Atom. If you want to set your DE like me, check out <a href="https://github.com/craftz-cat/dotfiles/">My Dotfiles Repository</a> to set your DE, or check out <a href="https://youtube.com/c/devaslife/">Takuya's video on youtube channel</a>. Because I set my DE with Takuya's youtube channel.
   </p>
   <p>
     <a href="https://github.com/fish-shell/fish-shell"><img alt="Fish Shell" src="https://img.shields.io/badge/-FISH-d5393c?style=flat-square&logo=fish-shell&logoColor=white" /></a>
@@ -54,7 +54,13 @@ Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently att
     <a href="https://github.com/tmux/"><img alt="Tmux" src="https://img.shields.io/badge/-tmux-393939?style=flat-square&logo=tmux&logoColor=white" /></a>
   </p>
 
-### Contact
+## People that I respect
+
+<a href="https://github.com/cmiscm"><img width="25%" src="https://avatars.githubusercontent.com/u/2730116?v=4" alt="cmiscm - Jong Min Kim" /></a>
+<a href="https://github.com/craftzdog"><img width="25%" src="https://avatars.githubusercontent.com/u/1332805?v=4" alt="Craftzdog - Takuya" /></a>
+<a href="https://github.com/serranoarevalo"><img width="25%" src="https://avatars.githubusercontent.com/u/3612017?v=4" alt="Nico" /></a>
+
+## Contact
 
   <p>
     <a href="craftzcat.ss@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-CB3837?style=flat-square&logo=gmail&logoColor=white" /></a>
