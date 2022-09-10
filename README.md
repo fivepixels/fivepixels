@@ -71,8 +71,8 @@ Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently att
 
 ## Status
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=craftz-cat&theme=nord)
-![Geunhyeok NW's github stats](https://github-readme-stats.vercel.app/api?username=craftz-cat&theme=nord&show_icons=true&row=2&column=3)
-![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=craftz-cat&theme=nord_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cattynip&theme=nord)
+![Geunhyeok Cattynip's github stats](https://github-readme-stats.vercel.app/api?username=cattynip&theme=nord&show_icons=true&row=2&column=3)
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cattynip&theme=nord_dark)
 
 <div>
