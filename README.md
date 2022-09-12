@@ -2,7 +2,7 @@
 
 # Learn every time, Write every where
 
-<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=So%20Seol&fontAlign=65&fontAlignY=70&desc=craftz-cat&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn" style="width: 100%">
+<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=So%20Seol&fontAlign=65&fontAlignY=70&desc=cattynip&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn" style="width: 100%">
 
 # 👋 Hello There!
 
