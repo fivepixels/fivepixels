@@ -6,7 +6,7 @@
 
 # 👋 Hello There!
 
-Hi, I am So Seol from South Korea, and I am 15 years old, and I am currently attending on <a href="https://bodwell.edu/">Bodwell High School</a>, Canada Private School. I decided to enter this school to learn English and go to college about Information Technologies and Computer Programming. I have been learning new stacks, maintaining many Computer Programming Projects.. I want to be Developer!
+Hi, I am Seol So from South Korea, and I am 15 years old, and I am currently attending on <a href="https://bodwell.edu/">Bodwell High School</a>, Canada Private School. I decided to enter this school to learn English and go to college about Information Technologies and Computer Programming. I have been learning new stacks, maintaining many Computer Programming Projects.. I want to be Developer!
 
 ## Badges
 
