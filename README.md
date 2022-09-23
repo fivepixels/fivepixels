@@ -30,11 +30,12 @@ Hi, I am Seol So from South Korea, and I am 15 years old, and I am currently att
     <a href="https://github.com/styled-components/"><img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-161e26?style=flat-square&logo=styled-components&logoColor=f9d876" /></a>
     <a href="https://github.com/framer/motion/"><img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-000000?style=flat-square&logo=framer&logoColor=white" /></a>
     <a href="https://github.com/expressjs/"><img alt="ExpressJS" src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black" /></a>
-    <a href="https://github.com/nestjs/"><img alt="NestJS" src="https://img.shields.io/badge/-NestJS-000000?style=flat-square&logo=nestjs&logoColor=ce3951" /></a>
-    <a href="https://github.com/graphql/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-161e26?style=flat-square&logo=graphql&logoColor=e535ab" /></a>
+    <a href="https://github.com/vercel/next.js"><img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=ffffff" /></a>
+    <a href="https://github.com/tailwindlabs/tailwindcss"><img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-ffffff?style=flat-square&logo=tailwindcss&logoColor=38bdf8" /></a>
     <br />
     Database : 
     <a href="https://github.com/mongodb/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
+    <a href="https://github.com/prisma/"><img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C344B?style=flat-square&logo=prisma&logoColor=ffffff" /></a>
     <br />
     ETC : 
     <a href="https://github.com/webpack/"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /></a>
