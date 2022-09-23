@@ -13,7 +13,7 @@ Hi, I am Seol So from South Korea, and I am 15 years old, and I am currently att
 ### Technologies
 
   <p>
-    These are Techonologies Badges I can use. Recently, I am being interested in <a href="https://github.com/microsoft/TypeScript/">TypeScript</a>, <a href="https://github.com/facebook/react/">React</a> and <a href="https://github.com/nestjs/nest/">NestJS</a>. I will learn <a href="https://github.com/vercel/next.js/">NextJS</a> and <a href="https://github.com/facebook/react-native/">React Native</a>.
+    These are Techonologies Badges I can use. Recently, I am being interested in <a href="https://github.com/facebook/react/">React</a> and <a href="https://github.com/vercel/next.js">NextJS</a>. I will learn <a href="https://github.com/facebook/react-native/">React Native</a> for building Mobile Applications. After learning React Native, I will learn <a href="https://github.com/nestjs/nest">NestJS</a> for building API Servers.
   </p>
   <p>
     The Programming Languages : 
