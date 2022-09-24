@@ -1,0 +1,12 @@
+{
+  "name": "cattynip-github-profile",
+  "version": "1.0.0",
+  "description": "My Github Profile Page",
+  "repository": "git@github.com:cattynip/cattynip.git",
+  "keywords": [],
+  "author": "Cattynip",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
