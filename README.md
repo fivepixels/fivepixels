@@ -55,11 +55,13 @@ Hi, I am Seol So from South Korea, and I am 15 years old, and I am currently att
     <a href="https://github.com/tmux/"><img alt="Tmux" src="https://img.shields.io/badge/-tmux-393939?style=flat-square&logo=tmux&logoColor=white" /></a>
   </p>
 
-## People that I respect
+## The Person that I respect
 
 <a href="https://github.com/cmiscm"><img width="25%" src="https://avatars.githubusercontent.com/u/2730116?v=4" alt="cmiscm - Jong Min Kim" /></a>
-<a href="https://github.com/craftzdog"><img width="25%" src="https://avatars.githubusercontent.com/u/1332805?v=4" alt="Craftzdog - Takuya" /></a>
-<a href="https://github.com/serranoarevalo"><img width="25%" src="https://avatars.githubusercontent.com/u/3612017?v=4" alt="Nico" /></a>
+<p>
+  I have respected a person. Jong Min Kim.
+  Jong Min Kim who has worked at Google as a UI/UX designer or an Interactive Developer made me a dream which is the reason that I decided to study abroad for going to the computer programming college.
+</p>
 
 ## Contact
 
