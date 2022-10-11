@@ -80,6 +80,6 @@ Hi, I am Seol So from South Korea, and I am 15 years old, and I am currently att
 
 ## Quote
 
-![My Quote](https://quotes-github-readme.vercel.app/api?theme=nord&myquote=work%20does%20not%20betray&author=Jong%20Min%20Kim)  
+![My Quote](https://quotes-github-readme.vercel.app/api?theme=nord&quote=Work%20does%20not%20betray&author=Jong%20Min%20Kim)  
 
 <div>
