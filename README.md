@@ -14,24 +14,25 @@ I am running for my dream!
 
 ## Technologies
 
-<img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img alt="ReactJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="ExpressJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img alt="NextJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img alt="TailwindCSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img alt="MongoDB"  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Webpack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-<img alt="Yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-<img alt="NPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=323330" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
+<img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-white?style=flat-square&logo=express&logoColor=black" />
+<img alt="PugJS" src="https://img.shields.io/badge/-PugJS-ebc9a1?style=flat-square&logo=pug&logoColor=black" />
+<img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-61dbfb?style=flat-square&logo=react&logoColor=white" />
+<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-cd6799?style=flat-square&logo=sass&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37bcf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-29B8AD?style=flat-square&logo=chakraui&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<img alt="Yarn" src="https://img.shields.io/badge/-yarn-378fb9?style=flat-square&logo=yarn&logoColor=white" />
+<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=whit" />
 <br />
 
 ## Tools
