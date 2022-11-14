@@ -7,7 +7,7 @@
 # 👋 Hello There!
 
 Hello, I am Seol SO from South Korea.
-I have been attending on [Bodwell](https://bodwell.edu/), Canada Private High School since September 1, 2022 as a student who love to write Codes and build Services.
+I have been attending on [Bodwell](https://bodwell.edu/), Canada Private High School since September 1, 2022 as a student who loves to write Codes and build Services.
 I decided to enter this school to learn English well and go to college about Information Technologies and Computer Porgramming.
 I have been learning new stacks, maintaining many projects.
 I am running for my dream!
@@ -37,7 +37,7 @@ I am running for my dream!
 
 ## Tools
 
-These are Tools Badges that I use. I always work on Terminal, not any IDE such as VSC or Atom. If you want to set your DE like me, check out <a href="https://github.com/craftz-cat/dotfiles/">My Dotfiles Repository</a> to set your DE, or check out <a href="https://youtube.com/c/devaslife/">Takuya's video on youtube channel</a>. Because I set my DE with Takuya's youtube channel.
+I always work on Terminal, not any IDE such as Visual Studio Code or Atom. The reason that I am using Terminal as a code editor is that Terminal is quiet cool and looks greate and it is customizable. If you want to set your DE like me, check out <a href="https://github.com/cattynip/dotfiles/">My Dotfiles Repository</a> to set your DE, or check out <a href="https://youtube.com/c/devaslife/">Takuya's video on youtube channel</a>. Because I set my DE with Takuya's youtube channel.
 
 ## The Person that I respect
 
@@ -53,6 +53,6 @@ These are Tools Badges that I use. I always work on Terminal, not any IDE such a
 
 ## Quote
 
-![My Quote](https://quotes-github-readme.vercel.app/api?theme=nord&quote=Work%20does%20not%20betray&author=Jong%20Min%20Kim)  
+![My Quote](https://quotes-github-readme.vercel.app/api?theme=nord&quote=Learn%20Whenever,%20Write%20Wherever&author=Cattynip)  
 
 </div>
