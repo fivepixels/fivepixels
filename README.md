@@ -24,6 +24,7 @@ I am running for my dream!
 <img alt="PugJS" src="https://img.shields.io/badge/-PugJS-ebc9a1?style=flat-square&logo=pug&logoColor=black" />
 <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-61dbfb?style=flat-square&logo=react&logoColor=white" />
 <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="ThreeJS" src="https://img.shields.io/badge/-ThreeJS-black?style=flat-square&logo=three.js&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-cd6799?style=flat-square&logo=sass&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37bcf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-29B8AD?style=flat-square&logo=chakraui&logoColor=white" />
