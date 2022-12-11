@@ -6,11 +6,7 @@
 
 # 👋 Hello There!
 
-Hello, I am Seol SO from South Korea.
-I have been attending on [Bodwell](https://bodwell.edu/), Canada Private High School since September 1, 2022 as a student who loves to write Codes and build Services.
-I decided to enter this school to learn English well and go to college about Information Technologies and Computer Porgramming.
-I have been learning new stacks, maintaining many projects.
-I am running for my dream!
+Hello, I am Seol SO from South Korea. I have attended Bodwell, Canada Private High School since September 1, 2022, as a student who loves writing Codes and Building Services. I decided to enter this school to learn English well and go to college about Information Technologies and Computer Programming. I have been learning new stacks and maintaining many projects. I am running for my dream!
 
 ## Technologies
 
