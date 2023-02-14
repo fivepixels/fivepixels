@@ -43,7 +43,6 @@ I always work on Terminal, not any IDE such as Visual Studio Code or Atom. The r
 ## Stats
 
 <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cattynip&theme=tokyonight&show_icons=true&row=2&column=3&hide_border=true" />
-<img width="100%" alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=cattynip&theme=tokyonight&hide_border=true" />
 <img width="100%" alt="GitHub Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cattynip&theme=tokyonight" />
 
 <img width="100%" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattynip&layout=compact&theme=tokyonight&hide_border=true&langs_count=2000" />
