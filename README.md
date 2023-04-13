@@ -23,6 +23,7 @@ Hello, I am Seol SO from South Korea. I have attended Bodwell, Canada Private Hi
 <img height="23px" alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37bcf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img height="23px" alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-29B8AD?style=flat-square&logo=chakraui&logoColor=white" />
 <img height="23px" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img height="23px" alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C344B?style=flat-square&logo=prisma&logoColor=white" />
 <img height="23px" alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <img height="23px" alt="Yarn" src="https://img.shields.io/badge/-yarn-378fb9?style=flat-square&logo=yarn&logoColor=white" />
 <img height="23px" alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -32,7 +33,11 @@ Hello, I am Seol SO from South Korea. I have attended Bodwell, Canada Private Hi
 
 ## Tools
 
-I always work on Terminal, not any IDE such as Visual Studio Code or Atom. The reason that I am using Terminal as a code editor is that Terminal is quiet cool and looks greate and it is customizable. If you want to set your DE like me, check out <a href="https://github.com/cattynip/dotfiles/">My Dotfiles Repository</a> to set your DE, or check out <a href="https://youtube.com/c/devaslife/">Takuya's video on youtube channel</a>. Because I set my DE with Takuya's youtube channel.
+I always work on Terminal, not any type of IDEs. My development environment settings are in [this repository](https://github.com/cattynip/devenv).
+
+## Plans
+
+You can see my plans for the future in [this](./plan.md) README file.
 
 ## The Person that I respect
 
@@ -44,9 +49,7 @@ I always work on Terminal, not any IDE such as Visual Studio Code or Atom. The r
 
 <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cattynip&theme=tokyonight&show_icons=true&row=2&column=3&hide_border=true" />
 <img width="100%" alt="GitHub Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cattynip&theme=tokyonight" />
-
 <img width="100%" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattynip&layout=compact&theme=tokyonight&hide_border=true&langs_count=2000" />
-
 <img width="100%" alt="GitHub Quote" src="https://quotes-github-readme.vercel.app/api?&quote=Learn%20Whenever,%20Write%20Wherever&author=Cattynip&theme=tokyonight" />
 
 </div>
