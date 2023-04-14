@@ -1,4 +1,4 @@
-# Plan for my development
+# Plan for my development journey
 
 ## 2023
 
@@ -8,17 +8,13 @@
 
     - [ ] Apr 12th to 16th - Finish [Carrot Market Clone Coding](https://nomadcoders.co/carrot-market)
 
-    - [ ] 16th - Design [AskHub project](https://github.com/cattynip/askhub)
+    - [ ] 16th - Design [RellyShip project](https://github.com/cattynip/askhub)
 
-    - [ ] 17th ~ May 6th - Develop [AskHub project](https://github.com/cattynip/askhub)
+    - [ ] 17th ~ Jun 6th - Develop [RellyShip project](https://github.com/cattynip/askhub)
 
 3.  May & Jun
 
-    - [ ] May 7th - Design [BlogHub project](https://github.com/cattynip/bloghub)
-
-    - [ ] 8th ~ June 24th - Develop [BlogHub project](https://github.com/cattynip/bloghub)
-
-    - [ ] 26th ~ 28th - Finish [Dart for Beginners](https://nomadcoders.co/dart-for-beginners)
+    - [ ] Jun 26th ~ 28th - Finish [Dart for Beginners](https://nomadcoders.co/dart-for-beginners)
 
     - [ ] 29th ~ July 5th - Finish [Flutter for Beginners](https://nomadcoders.co/flutter-for-beginners)
 
