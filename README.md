@@ -18,7 +18,6 @@ Hello, I am Seol SO from South Korea. I have attended Bodwell, Canada Private Hi
 <img height="23px" alt="PugJS" src="https://img.shields.io/badge/-PugJS-ebc9a1?style=flat-square&logo=pug&logoColor=black" />
 <img height="23px" alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-61dbfb?style=flat-square&logo=react&logoColor=white" />
 <img height="23px" alt="NextJS" src="https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=white" />
-<img height="23px" alt="ThreeJS" src="https://img.shields.io/badge/-ThreeJS-black?style=flat-square&logo=three.js&logoColor=white" />
 <img height="23px" alt="Sass" src="https://img.shields.io/badge/-Sass-cd6799?style=flat-square&logo=sass&logoColor=white" />
 <img height="23px" alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-37bcf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img height="23px" alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-29B8AD?style=flat-square&logo=chakraui&logoColor=white" />
