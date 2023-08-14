@@ -2,34 +2,22 @@
 
 ## 2023
 
-1.  Jan & Feb
+1. Jan ~ Mar
 
-2.  Mar & Apr
+2. Apr ~ May
 
-    - [ ] Apr 12th to 16th - Finish [Carrot Market Clone Coding](https://nomadcoders.co/carrot-market)
+   - [x] Apr 12nd to Apr 16th - Finish [Carrot Market Clone Coding](https://nomadcoders.co/carrot-market)
 
-    - [ ] 16th - Design [RellyShip project](https://github.com/cattynip/askhub)
+   - [x] Apr 16th - Design [RellyShip project](https://github.com/cattynip/rellyship)
 
-    - [ ] 17th ~ Jun 6th - Develop [RellyShip project](https://github.com/cattynip/askhub)
+   - [x] May 22th - The RellyShip Project was stopped.
 
-3.  May & Jun
+3. May ~ Sep
 
-    - [ ] Jun 26th ~ 28th - Finish [Dart for Beginners](https://nomadcoders.co/dart-for-beginners)
+   - [ ] May 22nd ~ Sep 4th - Develop [Bodwell History Project](https://github.com/cattynip/bodwell-history)
 
-    - [ ] 29th ~ July 5th - Finish [Flutter for Beginners](https://nomadcoders.co/flutter-for-beginners)
+4. Oct ~ Dec
 
-4.  Jul & Aug
+   - [ ] Sep 5st ~ 30th - Study Dart and Flutter, reading [dart documentations](https://dart.dev) and [flutter documentations](https://flutter.dev)
 
-    - [ ] 6th ~ 31th - Finish [TikTok Clone Coding](https://nomadcoders.co/tiktok-clone)
-
-    - [ ] Aug 1th - Design [Brain POP project](https://github.com/cattynip/brain-pop)
-
-    - [ ] Aug 1th ~ ??? - Develop [Brain POP project](https://github.com/cattynip/brain-pop)
-
-5.  Sep & Oct
-
-6.  Nov & Dec
-
----
-
-## 2024
+   - [ ] Oct 1st ~ Dec 31st - Develop the Walki Project
