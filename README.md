@@ -18,7 +18,7 @@ Hello, I am [Ethan](https://cattynip.dev), konwn as Cattynip from South Korea, a
 
 ## How Do I Code?
 
-I always work with my friend, [NeoVim](https://neovim.io/), no any type of IDEs. [This repository]([this repository](https://github.com/cattynip/devenv)) has my NeoVim, Fish Shell, and the other development environment settings. So you can check and clone it.
+I always work with my friend, [NeoVim](https://neovim.io/), no any type of IDEs. [This repository](https://github.com/cattynip/dotfiles) has my NeoVim, Fish Shell, and the other development environment settings. So you can check and clone it.
 
 ## What Plan Do I Have?
 
