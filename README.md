@@ -4,7 +4,7 @@
 
 ## Who Am I?
 
-Hello, I am [Ethan](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase in my mind to embark on the right path.
+Hello, I am [Ethan](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase `Learn Whenever, Write Wherever` in my mind to embark on the right path.
 
 ## What Technologies can I use?
 
@@ -18,7 +18,7 @@ Hello, I am [Ethan](https://cattynip.dev), konwn as Cattynip from South Korea, a
 
 ## How Do I Code?
 
-I always work on Terminal, not any type of IDEs. My development environment settings are in [this repository](https://github.com/cattynip/devenv).
+I always work with my friend, [NeoVim](https://neovim.io/), no any type of IDEs. [This repository]([this repository](https://github.com/cattynip/devenv)) has my NeoVim, Fish Shell, and the other development environment settings. So you can check and clone it.
 
 ## What Plan Do I Have?
 
@@ -26,17 +26,20 @@ You can see my plans for the future in [this](./plan.md) README file.
 
 ## Who Do I Respect?
 
-I personally respect [Jong Min Kim](https://blog.cmiscm.com/?page_id=3023), who has been working at Google for ten years. The biggest reason I respect him is that his videos inspired me in the diverse ways, brought me my dream and suggested that I sutdy and use computer programming.
+I personally respect [Jong Min Kim](https://blog.cmiscm.com/?page_id=3023), who has been working at Google for ten years. The biggest reason I respect him is that his videos inspired me in the diverse ways, brought me my dream and suggested me to sutdy and do computer programming.
 
 ## What Do I Want To Achieve?
 
 1. Build my portfolio website
 2. Get into the University Of Waterloo
-3. Join to the top companies
+3. Join to the top companies, such as Apple, Google, or Tesla
 4. Be a member of Craft
 5. Build a house where I can live
+6. Write a book
 
 ## How Can You Contact Me?
 
 - [Website](https://cattynip.dev): https://cattynip.dev (not developed yet)
 - [Gamil](hi@cattynip.dev): hi@cattynip.dev
+- [Instagram](https://www.instagram.com/ya.seol/): @ya.seol
+- [X(formally Twitter)](https://twitter.com/cattynip_): @cattynip_

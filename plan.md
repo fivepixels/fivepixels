@@ -14,10 +14,12 @@
 
 3. May ~ Sep
 
-   - [ ] May 22nd ~ Sep 4th - Develop [Bodwell History Project](https://github.com/cattynip/bodwell-history)
+   - [x] May 22nd ~ Sep 4th - Develop [Bodwell History Project](https://github.com/cattynip/bodwell-history)
 
 4. Oct ~ Dec
 
-   - [ ] Sep 5st ~ 30th - Study Dart and Flutter, reading [dart documentations](https://dart.dev) and [flutter documentations](https://flutter.dev)
+   - [ ] Sep 5st ~ 20th - Study Dart and Flutter, reading [Dart documentations](https://dart.dev) and [Flutter documentations](https://flutter.dev)
 
-   - [ ] Oct 1st ~ Dec 31st - Develop the Walki Project
+   - [ ] Sep 20th ~ 30th - Study NestJS and DBs, reading [NestJS documentations](https://nestjs.com/), [PostgreSQL documentations](https://www.postgresql.org/), and [Radis documentations](https://redis.io/)
+
+   - [ ] Oct 1st ~ Dec 31st - Develop the [FancyHorizon Project](https://github.com/fancyhorizon)
