@@ -4,7 +4,7 @@
 
 ## Who Am I?
 
-Hello, I am [Noah](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase in my mind to embark on the right path.
+Hello, I am [Ethan](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase in my mind to embark on the right path.
 
 ## What Technologies can I use?
 
