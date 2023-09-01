@@ -39,7 +39,7 @@ I personally respect [Jong Min Kim](https://blog.cmiscm.com/?page_id=3023), who 
 
 ## How Can You Contact Me?
 
-- [Website](https://cattynip.dev): https://cattynip.dev (not developed yet)
+- [Website](https://cattynip.dev): [https://cattynip.dev](https://cattynip.dev) (not developed yet)
 - [Gamil](hi@cattynip.dev): hi@cattynip.dev
-- [Instagram](https://www.instagram.com/ya.seol/): @ya.seol
-- [X(formally Twitter)](https://twitter.com/cattynip_): @cattynip_
+- [Instagram](https://www.instagram.com/ya.seol/): [@ya.seol](https://www.instagram.com/ya.seol/)
+- [X(formally Twitter)](https://twitter.com/cattynip_/): [@cattynip_](https://twitter.com/cattynip_/)
