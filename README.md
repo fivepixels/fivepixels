@@ -4,7 +4,7 @@
 
 ## Who Am I?
 
-Hello, I am [Ethan](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase `Learn Whenever, Write Wherever` in my mind to embark on the right path.
+Hello, I am [Seol SO](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth grade student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value to the society by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase `Learn Whenever, Write Wherever` in my mind to embark on the right path.
 
 ## What Technologies can I use?
 
@@ -31,9 +31,9 @@ I personally respect [Jong Min Kim](https://blog.cmiscm.com/?page_id=3023), who 
 ## What Do I Want To Achieve?
 
 1. Build my portfolio website
-2. Get into the University Of Waterloo
+2. Get into [the University Of Waterloo](https://uwaterloo.ca/) or [MIT](https://mit.edu/)
 3. Join to the top companies, such as Apple, Google, or Tesla
-4. Be a member of Craft
+4. Be a member of [Craft](https://www.craft.do/careers)
 5. Build a house where I can live
 6. Write a book
 
@@ -41,5 +41,5 @@ I personally respect [Jong Min Kim](https://blog.cmiscm.com/?page_id=3023), who 
 
 - [Website](https://cattynip.dev): [https://cattynip.dev](https://cattynip.dev) (not developed yet)
 - [Gamil](hi@cattynip.dev): hi@cattynip.dev
-- [Instagram](https://www.instagram.com/ya.seol/): [@ya.seol](https://www.instagram.com/ya.seol/)
+- [Instagram](https://www.instagram.com/ya.seol/): [@ya.seol](https://www.instagram.com/cattynip.dev/)
 - [X(formally Twitter)](https://twitter.com/cattynip_/): [@cattynip_](https://twitter.com/cattynip_/)
