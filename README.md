@@ -8,9 +8,9 @@ Hello, I am [Seol SO](https://cattynip.dev), konwn as Cattynip from South Korea,
 
 ## What Technologies can I use?
 
-- Languages: HTML5, CSS3, JavaScript, TypeScript, SASS, Python
-- Libraries: PugJS, ReactJS, ChakraUI, ThreeJS
-- Frameworks: NodeJS, ExpressJS, NextJS, TailwindCSS(Yeah, it says it is a utility CSS **Framework**)
+- Languages: HTML5, CSS3, JavaScript, TypeScript, SASS, Python, Dart
+- Libraries: PugJS, ReactJS, ChakraUI, ThreeJS, Framer Motion
+- Frameworks: NodeJS, ExpressJS, NextJS, TailwindCSS, Flutter
 - Database: MongoDB, MySQL
 - ORM: Prisma
 - Package Managers: NPM, Yarn
@@ -41,5 +41,5 @@ I personally respect [Jong Min Kim](https://blog.cmiscm.com/?page_id=3023), who 
 
 - [Website](https://cattynip.dev): [https://cattynip.dev](https://cattynip.dev) (not developed yet)
 - [Gamil](hi@cattynip.dev): hi@cattynip.dev
-- [Instagram](https://www.instagram.com/ya.seol/): [@ya.seol](https://www.instagram.com/cattynip.dev/)
+- [Instagram](https://www.instagram.com/cattynip.dev/): [@cattynip.dev](https://www.instagram.com/cattynip.dev/)
 - [X(formally Twitter)](https://twitter.com/cattynip_/): [@cattynip_](https://twitter.com/cattynip_/)
