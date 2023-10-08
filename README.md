@@ -1,10 +1,10 @@
 <img width="100%" alt="GitHub Header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seol%20SO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Known%20as%20Cattynip&descAlignY=51&descAlign=62" />
 
-# [Learn Whenever, Write Wherever](https://cattynip.dev)
+# [Learn Anytime, Write Anywhere](https://cattynip.dev)
 
 ## Who Am I?
 
-Hello, I am [Seol SO](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth grade student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value to the society by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase `Learn Whenever, Write Wherever` in my mind to embark on the right path.
+Hello, I am [Seol SO](https://cattynip.dev), konwn as Cattynip from South Korea, and a ninth grade student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value to the society by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path.
 
 ## What Technologies can I use?
 
