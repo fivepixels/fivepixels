@@ -46,18 +46,23 @@ Timeline Plans are the very specific plans that should be done at that time by m
 
 4. Oct ~ Dec
 
-    - [ ] Oct 6th ~ 31th
+    - [x] Oct 6th ~ 23th
         - Take [TikTok Clone Coding](https://nomadcoders.co/tiktok-clone) course in Nomadcoders.
         - [GitHub Link](https://github.com/cattynip/ticktok).
-    - [ ] Nov 01th ~ 13th
+    - [ ] Oct 24th ~ Nov 11th
+        - Refactor Bodwell History Project
+        - [GitHub Link](https://github.com/cattynip/bodwell-history).
+        - [Website URL](https://bodwell.io).
+    - [ ] Nov 12th ~ 30th
+        - Finish [TikTok Clone Coding](https://nomadcoders.co/tiktok-clone) course in Nomadcoders.
+        - [GitHub Link](https://github.com/cattynip/ticktok).
+    - [ ] Nov 30th ~ Dec 08th
         - Take [Flutter Animations Master Class](https://nomadcoders.co/flutter-animations-masterclass) course in Nomadcoders.
         - [GitHub Link](https://github.com/cattynip/flutter-animation-masterclass).
-    - [ ] Nov 14th ~ 30th
-        - Refactor all of projects on GitHub.
-    - [ ] Dec 01th ~ 05th
+    - [ ] Dec 09th ~ 11th
         - Take [NestJS for Beginners](https://nomadcoders.co/nestjs-fundamentals) course in Nomadcoders.
         - [GitHub Link](https://github.com/cattynip/nestjs-for-beginners).
-    - [ ] Dec 06th ~ 13th
+    - [ ] Dec 11th ~ 14th
         - Take [Graphql for Beginners](https://nomadcoders.co/graphql-for-beginners) and [React GraphQL for Beginners](https://nomadcoders.co/react-graphql-for-beginners) courses in Nomadcoders.
         - [GitHub Link](https://github.com/cattynip/graphql-for-beginners).
     - [ ] Dec 14th 26th ~ Feb 15th
