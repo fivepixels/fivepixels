@@ -1,6 +1,6 @@
 # Plan for my coding journey
 
-These are the plans for my coding journey. This plan has two main parts: Todo Plans and Timeline Plans.
+These are the plans for my coding journey. This plan has two main parts: TodoPlans and Timeline Plans.
 
 Todo Plans are my general plans that can be done whenever I can accomplish them throughout my whole life. That is also why I specified my plans' time pretty roughly, not specifically, and they are not treating only computer programming.
 
@@ -16,58 +16,85 @@ Timeline Plans are the very specific plans that should be done at that time by m
 
 ## Timeline Plans
 
-### 2023
+### 2023 - 9th Grade
 
 1. Jan ~ Mar
 
 2. Apr ~ Jun
 
-    - [x] Apr 12th ~ 16th
-        - Take [Carrot Market Clone Coding](https://nomadcoders.co/carrot-market) course in Nomadcoders.
-        - [GitHub Link](https://github.com/cattynip/narrot-market).
-    - [x] Apr 16th ~ 17th
-        - Design [RellyShip project](https://github.com/cattynip/rellyship).
-        - [GitHub Link](https://github.com/cattynip/rellyship).
-    - [x] May 22th
-        - The RellyShip Project was stopped.
-        - [GitHub Link](https://github.com/cattynip/rellyship).
-    - [x] May 22th ~ Sep 23th
-        - Develop [Bodwell History Project](https://github.com/cattynip/bodwell-history).
-        - [GitHub Link](https://github.com/cattynip/bodwell-history).
-        - [Final Website](https://bodwell-history.com).
+   - [x] Apr 12nd ~ 16th
+     - Take [Carrot Market Clone Coding](https://nomadcoders.co/carrot-market) course in Nomadcoders.
+     - [GitHub Link](https://github.com/cattynip/narrot-market).
+   - [x] Apr 16th ~ 17th
+     - Design [RellyShip project](https://github.com/cattynip/rellyship).
+     - [GitHub Link](https://github.com/cattynip/rellyship).
+   - [x] May 22nd
+     - The RellyShip Project was stopped.
+     - [GitHub Link](https://github.com/cattynip/rellyship).
+   - [x] May 22nd ~ Sep 23rd
+     - Develop [Bodwell History Project](https://github.com/cattynip/bodwell-history).
+     - [GitHub Link](https://github.com/cattynip/bodwell-history).
+     - [Final Website](https://bodwell-history.com).
 
 3. Jul ~ Sep
 
-    - [x] Sep 24th ~ 25th
-        - Take [Dart for Beginners](https://nomadcoders.co/dart-for-beginners) course in Nomadcoders.
-    - [x] Sep 26th ~ Oct 05th
-        - Take [Flutter for Beginners](https://nomadcoders.co/flutter-for-beginners) course in Nomadcoders.
-        - [GitHub Link](https://github.com/cattynip/webtoon-app).
+   - [x] Sep 24th ~ 25th
+     - Take [Dart for Beginners](https://nomadcoders.co/dart-for-beginners) course in Nomadcoders.
+   - [x] Sep 26th ~ Oct 05th
+     - Take [Flutter for Beginners](https://nomadcoders.co/flutter-for-beginners) course in Nomadcoders.
+     - [GitHub Link](https://github.com/cattynip/webtoon-app).
 
 4. Oct ~ Dec
 
-    - [x] Oct 6th ~ 23th
-        - Take [TikTok Clone Coding](https://nomadcoders.co/tiktok-clone) course in Nomadcoders.
-        - [GitHub Link](https://github.com/cattynip/ticktok).
-    - [ ] Oct 24th ~ Dec 31th
-        - Refactor Bodwell History Project
-        - [GitHub Link](https://github.com/cattynip/bodwell-history).
-        - [Website URL](https://bodwell.app).
+   - [x] Oct 6th ~ 23rd
+     - Take [TikTok Clone Coding](https://nomadcoders.co/tiktok-clone) course in Nomadcoders.
+     - [GitHub Link](https://github.com/cattynip/ticktok).
+   - [ ] Oct 24th ~ Jan 31st
+     - Refactor Bodwell Memories Project
+     - [GitHub Link](https://github.com/cattynip/bodwell-memories).
+     - [Website URL](https://bodwell.app).
 
-### 2024
-
-General Goals:
-
-- [ ] Working on the FancyHorizon project.
-    - [ ] Learning the technologies that I need to develop those services.
-        - [ ] Learning Dart, Flutter
-        - [ ] Learning NestJS, PostgreSQL
-    - [ ] Developing the FancyHorizon project.
+### 2024 - 10th Grade
 
 1. Jan ~ Mar
 
-2. Arp ~ Jun
+2. Apr ~ Jun
 
 3. Jul ~ Sep
 
 4. Oct ~ Dec
+
+### 2025 - 11st Grade
+
+1. Jan ~ Mar
+
+2. Apr ~ Jun
+
+3. Jul ~ Sep
+
+4. Oct ~ Dec
+
+### 2026 - 12nd Grade
+
+1. Jan ~ Mar
+
+2. Apr ~ Jun
+
+3. Jul ~ Sep
+
+4. Oct ~ Dec
+
+### 2027 - Graduation
+
+1. Jan ~ Mar
+
+2. Apr ~ Jun
+
+   - [ ] ??????
+     - [ ] Graduate From Albert College
+
+3. Jul ~ Sep
+
+4. Oct ~ Dec
+
+###### First Edit - Apr 13, 2023
