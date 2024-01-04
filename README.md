@@ -66,4 +66,4 @@ I personally respect [Jong Min Kim](https://blog.cmiscm.com/), who has been work
 - [Instagram](https://www.instagram.com/cattynip.dev/): [@cattynip.dev](https://www.instagram.com/cattynip.dev/)
 - [X(formally Twitter)](https://twitter.com/cattynip_/): [@cattynip\_](https://twitter.com/cattynip_/)
 
-https://cattynip.craft.me/mit-admission-project
+https://cattynip.craft.me/homeschooling
