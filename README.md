@@ -39,26 +39,9 @@ Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea,
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F54D27?logo=git&logoColor=white" /></a>
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" /></a>
 
-## How Do I Code?
+## Main Projects
 
-I always work with my friend, [NeoVim](https://neovim.io/), no any type of IDEs. [This dotfile repository](https://github.com/cattynip/dotfiles) includes all my NeoVim, Fish Shell, and the other development environment settings. So you can check and clone it.
-
-## What Plan Do I Have?
-
-You can see my plans for the future in [this](./plan.md) README file.
-
-## Who Do I Respect?
-
-I personally respect [Jong Min Kim](https://blog.cmiscm.com/), who has been working at Google for ten years. The biggest reason I respect him is that his videos inspired me in the diverse ways, brought me my dream, and suggested I study abroad and do computer programming.
-
-## What Do I Want To Achieve?
-
-- [ ] 1. Build my portfolio website
-- [ ] 2. Get into [The University Of Waterloo](https://uwaterloo.ca/) or [MIT](https://mit.edu/)
-- [ ] 3. Join the top companies, such as Apple, Google, or Tesla
-- [ ] 4. Be a member of [Craft](https://www.craft.do/careers/)
-- [ ] 5. Build a house where I can live
-- [ ] 6. Write a book
+...estimated to be filled in June 2024
 
 ## Do You Want To Know More About Me?
 
