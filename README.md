@@ -2,11 +2,11 @@
 
 # [Learn Anytime, Write Anywhere](https://cattynip.dev)
 
-## Who Am I?
+## Introduction
 
-Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea, and a ninth-grade student at [Albert College](https://albertcollege.ca). I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes and Building Services. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path. To follow the phrase, I always make a commit every single day.
+Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea, born in 2008. I started homeschooling in June 2024 all around the world, mainly in Korea, when I was 16 years old, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻, as I mentioned earlier. I am also interested in Saxophone 🎷, Photograph 📸, Snowboarding 🏂, and Camping 🏕️. As you can guess, I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
 
-## What Technologies can I use?
+## Technologies
 
 - Languages:
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F06529?logo=html5&logoColor=white" />
@@ -43,7 +43,7 @@ Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea,
 
 ...estimated to be filled in June 2024
 
-## Do You Want To Know More About Me?
+## Contacts
 
 - [Website](https://cattynip.dev): [https://cattynip.dev](https://cattynip.dev) (not developed yet)
 - [Gamil](hi@cattynip.dev): hi@cattynip.dev
