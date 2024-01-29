@@ -29,6 +29,7 @@ Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea,
   <a href="https://flutter.dev/"><img alt="Fluttter" src="https://img.shields.io/badge/Flutter-0B5A9D?logo=flutter&logoColor=white" /></a>
 - Database:
   <a href="https://mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-116149?logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img at="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336691?logo=postgresql&logoColor=white" /></a>
 - ORM:
   <a href="https://prisma.io/"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-000000?logo=prisma&logoColor=white" /></a>
 - Package Managers:
@@ -40,7 +41,7 @@ Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea,
 
 ## How Do I Code?
 
-I always work with my friend, [NeoVim](https://neovim.io/), no any type of IDEs. [This dotfile repository](https://github.com/cattynip/dotfiles) includes all my NeoVim, Fish Shell, and the other development environment settings. So you can check and clone it. However, nowadays, I usually code with Visual Studio Code because it is extremely slow to write code in Dart in a Neovim Environment.
+I always work with my friend, [NeoVim](https://neovim.io/), no any type of IDEs. [This dotfile repository](https://github.com/cattynip/dotfiles) includes all my NeoVim, Fish Shell, and the other development environment settings. So you can check and clone it.
 
 ## What Plan Do I Have?
 
