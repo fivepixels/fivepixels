@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea, born in 2008. I started homeschooling in June 2024 all around the world, mainly in Korea, when I was 16 years old, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻, as I mentioned earlier. I am also interested in Saxophone 🎷, Photograph 📸, Snowboarding 🏂, and Camping 🏕️. As you can guess, I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
+Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea, born in 2008. I started homeschooling in June 2024 all around the world, mainly in Korea, when I was 16 years old, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻, as I mentioned earlier. I am also interested in Saxophone 🎷, Photograph 📸, Snowboarding 🏂, Camping 🏕️, and Scuba Diving 🤿. As you can guess, I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
 
 ## Technologies
 
