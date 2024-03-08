@@ -49,5 +49,3 @@ Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea,
 - [Gamil](hi@cattynip.dev): hi@cattynip.dev
 - [Instagram](https://www.instagram.com/cattynip.dev/): [@cattynip.dev](https://www.instagram.com/cattynip.dev/)
 - [X(formally Twitter)](https://twitter.com/cattynip_/): [@cattynip\_](https://twitter.com/cattynip_/)
-
-https://cattynip.craft.me/homeschooling
