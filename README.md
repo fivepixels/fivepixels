@@ -1,10 +1,10 @@
-<img width="100%" alt="GitHub Header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seol%20SO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Known%20as%20Cattynip&descAlignY=51&descAlign=62" />
+<img width="100%" alt="GitHub Header" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seol%20SO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20Was%20Cattynip&descAlignY=51&descAlign=62" />
 
-# [Learn Anytime, Write Anywhere](https://cattynip.dev)
+# [Learn Anytime, Write Anywhere](https://fivepixels.dev)
 
 ## Introduction
 
-Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea, born in 2008. I started homeschooling in June 2024 all around the world, mainly in Korea, when I was 16 years old, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻, as I mentioned earlier. I am also interested in Saxophone 🎷, Photograph 📸, Snowboarding 🏂, Camping 🏕️, and Scuba Diving 🤿. As you can guess, I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
+Hello, I am [Seol SO](https://fivepixels.dev), known as FivePixels from South Korea, born in 2008. I started homeschooling in June 2024 all around the world, mainly in Korea, when I was 16 years old, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻, as I mentioned earlier. I am also interested in Saxophone 🎷, Photograph 📸, Snowboarding 🏂, Camping 🏕️, and Scuba Diving 🤿. As you can guess, I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
 
 ## Technologies
 
@@ -41,11 +41,12 @@ Hello, I am [Seol SO](https://cattynip.dev), known as Cattynip from South Korea,
 
 ## Main Projects
 
-...estimated to be filled in June 2024
+### Holidays.watch
+
+### The Third Eye
 
 ## Contacts
 
-- [Website](https://cattynip.dev): [https://cattynip.dev](https://cattynip.dev) (not developed yet)
-- [Gamil](hi@cattynip.dev): hi@cattynip.dev
-- [Instagram](https://www.instagram.com/cattynip.dev/): [@cattynip.dev](https://www.instagram.com/cattynip.dev/)
-- [X(formally Twitter)](https://twitter.com/cattynip_/): [@cattynip\_](https://twitter.com/cattynip_/)
+- [Website](https://fivepixels.dev): [https://fivepixels.dev](https://fivepixels.dev/) (not developed yet)
+- [Gmail](hi@fivepixels.dev): hi@fivepixels.dev
+- [Instagram](https://www.instagram.com/private.fivepixels.dev/): [@cattynip.dev](https://www.instagram.com/private.fivepixels.dev/)
