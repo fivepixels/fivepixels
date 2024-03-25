@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hello, I am [Seol SO](https://fivepixels.dev), known as FivePixels from South Korea, born in 2008. I started homeschooling in June 2024 all around the world, mainly in Korea, when I was 16 years old, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻, as I mentioned earlier. I am also interested in Saxophone 🎷, Photograph 📸, Snowboarding 🏂, Camping 🏕️, and Scuba Diving 🤿. As you can guess, I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
+Hello, I am [Seol SO](https://fivepixels.dev), known as FivePixels from South Korea, born in 2008. I have been studing abroad since 2022 summer, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻 and interested in Saxophone 🎷, Photograph 📸, Volleyball 🏐. I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
 
 ## Technologies
 
@@ -41,12 +41,10 @@ Hello, I am [Seol SO](https://fivepixels.dev), known as FivePixels from South Ko
 
 ## Main Projects
 
-### Holidays.watch
-
 ### The Third Eye
 
 ## Contacts
 
 - [Website](https://fivepixels.dev): [https://fivepixels.dev](https://fivepixels.dev/) (not developed yet)
 - [Gmail](hi@fivepixels.dev): hi@fivepixels.dev
-- [Instagram](https://www.instagram.com/private.fivepixels.dev/): [@cattynip.dev](https://www.instagram.com/private.fivepixels.dev/)
+- [Instagram](https://www.instagram.com/private.fivepixels.dev/): [@private.fivepixels.dev](https://www.instagram.com/private.fivepixels.dev/)
