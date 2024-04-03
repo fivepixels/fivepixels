@@ -2,11 +2,11 @@
 
 # [Learn Anytime, Write Anywhere](https://fivepixels.dev)
 
-## Introduction
+## 🤝 Introduction
 
-Hello, I am [Seol SO](https://fivepixels.dev), known as FivePixels from South Korea, born in 2008. I have been studing abroad since 2022 summer, to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻 and interested in Saxophone 🎷, Photograph 📸, Volleyball 🏐. I have been dreaming of being a computer programmer, creating value for society by developing things for customers. Why? Because I love Writing Codes, Building Services, and Connecting People. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I always make a commit every single day.
+Hello, I am [Seol SO](https://fivepixels.dev), aka FivePixels from South Korea, born in 2008. I have been studying abroad at Albert College in Canada since 2022 summer in order to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻 and interested in Saxophone 🎷, Photograph 📸, and Volleyball 🏐. I have been dreaming of being a computer programmer, creating value for society by developing things for customers because I love __*writing codes*__, __*building services*__, and __*connecting with people*__. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I try to make a commit every single day.
 
-## Technologies
+## 🖥️ Technologies
 
 - Languages:
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F06529?logo=html5&logoColor=white" />
@@ -39,12 +39,19 @@ Hello, I am [Seol SO](https://fivepixels.dev), known as FivePixels from South Ko
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F54D27?logo=git&logoColor=white" /></a>
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" /></a>
 
-## Main Projects
+## 👾 Main Projects
 
 ### The Third Eye
 
-## Contacts
+## 🔗 Links
 
-- [Website](https://fivepixels.dev): [https://fivepixels.dev](https://fivepixels.dev/) (not developed yet)
-- [Gmail](hi@fivepixels.dev): hi@fivepixels.dev
-- [Instagram](https://www.instagram.com/private.fivepixels.dev/): [@private.fivepixels.dev](https://www.instagram.com/private.fivepixels.dev/)
+### FivePixels Websites
+- Portfolio Website: https://fivepixels.dev
+- Blog: https://blog.fivepixels.dev
+- Material: https://materials.fivepixels.dev
+- Gallery: https://gallery.fivepixels.dev
+
+### Contacts
+- Gmail: hi@fivepixels.dev
+- Instagram: [@private.fivepixels.dev](https://www.instagram.com/private.fivepixels.dev/)
+- Twitter: [@fivepixels_dev](https://www.twitter.com/fivepixels_dev)
