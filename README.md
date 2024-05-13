@@ -4,7 +4,7 @@
 
 ## 🤝 Introduction
 
-Hello, I am [Seol SO](https://fivepixels.dev), aka FivePixels from South Korea, born in 2008. I have been studying abroad at Albert College in Canada since 2022 summer in order to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻 and interested in Saxophone 🎷, Photograph 📸, and Volleyball 🏐. I have been dreaming of being a computer programmer, creating value for society by developing things for customers because I love __*writing codes*__, __*building services*__, and __*connecting with people*__. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I try to make a commit every single day.
+Hello, I am [Seol SO](https://fivepixels.dev), aka FivePixels from South Korea, born in 2008. I have been studying abroad at Albert College in Canada since 2022 summer in order to be more focused and serious about computer programming, aiming to get into MIT. I am passionate about computer programming 💻 and interested in Saxophone 🎷, Photograph 📸, and Volleyball 🏐. I have been dreaming of being a computer programmer, creating value for society by developing things for customers because I love __*writing codes*__, __*building services*__, and __*connecting with people*__, and I have been trying to prove my enthusiasm for computer programming through Science Fairs and Hackathons. I always keep the phrase `Learn Anytime, Write Anywhere.` in my mind to embark on the right path as a young developer. To follow the phrase, I try to make a commit every single day.
 
 ## 🖥️ Technologies
 
@@ -43,6 +43,12 @@ Hello, I am [Seol SO](https://fivepixels.dev), aka FivePixels from South Korea, 
 
 ### The Third Eye
 
+<a href="https://github.com/fivepixels/the-third-eye"><img alt="The Third Eye Logo" src="https://github.com/fivepixels/the-third-eye/blob/master/images/header.png?raw=true" /></a>
+
+The Third Eye is a Google Chrome Extension that allows visually impaired people to navigate through websites. This project went to the Canada-Wide Science Fair and will be judged in the last week of May 2024.
+
+- GitHub: https://github.com/fivepixels/the-third-eye
+
 ## 🔗 Links
 
 ### FivePixels Websites
@@ -53,5 +59,5 @@ Hello, I am [Seol SO](https://fivepixels.dev), aka FivePixels from South Korea, 
 
 ### Contacts
 - Gmail: hi@fivepixels.dev
-- Instagram: [@private.fivepixels.dev](https://www.instagram.com/private.fivepixels.dev/)
+- Instagram: [@fivepixels.dev](https://www.instagram.com/fivepixels.dev/)
 - Twitter: [@fivepixels_dev](https://www.twitter.com/fivepixels_dev)
